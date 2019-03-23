@@ -29,3 +29,7 @@
 2. [冴羽](https://github.com/mqyqingfeng/Blog)
 
 3. [brickspert](https://github.com/brickspert/blog)
+
+### 其他
+
+1. [在家写代码才是梦想啊](https://github.com/remoteintech/remote-jobs)
