@@ -35,3 +35,4 @@
 ### 其他
 
 1. [在家写代码才是梦想啊](https://github.com/remoteintech/remote-jobs)
+2. [cheetsheet for everything](https://github.com/LeCoupa/awesome-cheatsheets)
