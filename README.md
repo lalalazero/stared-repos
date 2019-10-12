@@ -36,3 +36,4 @@
 
 1. [在家写代码才是梦想啊](https://github.com/remoteintech/remote-jobs)
 2. [cheetsheet for everything](https://github.com/LeCoupa/awesome-cheatsheets)
+3. [记录独立开发者变现的故事](https://github.com/ljinkai/awesome-indie-maker)
