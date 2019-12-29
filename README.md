@@ -3,13 +3,13 @@
 ### 做项目
 
 1. [project-based-learning](https://github.com/tuvtran/project-based-learning)
-  
 2. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 3. [冴羽-动手造轮子-DOM类](https://github.com/mqyqingfeng/Wheels)
 
-### JS
+### 在线读书
 
 1. [小黄书](https://github.com/getify/You-Dont-Know-JS)
+2. [ts](https://github.com/jkchao/typescript-book-chinese)
 
 ### 设计模式
 
@@ -29,7 +29,7 @@
 
 3. [brickspert](https://github.com/brickspert/blog)
 
-4. [木易杨-每周一个高级前端面试题？](https://github.com/yygmind/blog)
+4. [木易杨-每周一个高级前端面试题](https://github.com/yygmind/blog)
 5. [浏览器输入url到页面加载发生了什么...](https://github.com/alex/what-happens-when)
 6. [浏览器输入url到页面加载发生了什么...(中文翻译版)](https://github.com/skyline75489/what-happens-when-zh_CN)
 
