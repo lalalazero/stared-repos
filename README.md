@@ -1,5 +1,9 @@
 # 收藏夹
 
+#### 可可爱爱 emoji
+
+1. [emoji](https://emoji.muan.co/)
+
 ### 做项目
 
 1. [project-based-learning](https://github.com/tuvtran/project-based-learning)
