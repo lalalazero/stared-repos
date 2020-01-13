@@ -16,6 +16,7 @@
 
 1. [小黄书](https://github.com/getify/You-Dont-Know-JS)
 2. [ts](https://github.com/jkchao/typescript-book-chinese)
+3. [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
 ### 设计模式
 
